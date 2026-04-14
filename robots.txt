@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshanalikhan.github.io/scotland-england-womens-six-nations-preview/sitemap.xml
